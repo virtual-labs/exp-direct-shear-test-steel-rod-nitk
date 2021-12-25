@@ -2,38 +2,85 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Shear stress is caused by forces acting in",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Transverse direction",
+        "b": "Perpendicular direction",
+        "c": "Angular direction",
+        "d": "Parallel opposite direction"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Modulus of rigidity is found by shear test.( Say True of False)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "True",
+        "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Which statement is correct <br/> i) Shear stress is caused by forces which act perpendicular to area of c/s.</br> ii) If there is one c/s which resist failure, the material is said to be in single shear.</br> iii) Ultimate strength in double shear will be equal to minimum load divided by twice area of c/s.",
+      "answers": {
+        "a": "(i) is correct",
+        "b": "(ii) & (iii) is correct",
+        "c": "(ii) is correct",
+        "d": "(iii) is correct"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "To obtain double shear in N/mm<sup>2</sup> given failure load (P) in kg, area of c/s( A)in mm<sup>2</sup> , which equation is correct",
+      "answers": {
+        "a": "(2 * P) / A",
+        "b": "P / (2 * A)",
+        "c": "(P / A)",
+        "d": "P / (4 * A)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "For which material Poisons ratio is more than unity.",
+      "answers": {
+        "a": "Steel",
+        "b": "Copper",
+        "c": "Aluminium",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
