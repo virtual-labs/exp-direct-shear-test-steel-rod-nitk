@@ -1,0 +1,86 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the IS code for metals?",
+      "answers": {
+        "a": "IS 1708:1986",
+        "b": "IS 2654:1977",
+        "c": "IS 5242:1979",
+        "d": "IS 2655:1964"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "How is the double shear strength calculated?",
+      "answers": {
+        "a": "(2 * P) / A",
+        "b": "P / (2 * A)",
+        "c": "P / A",
+        "d": "P / (0.5 * A)"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The material in the shear test fails due to",
+      "answers": {
+        "a": "Sudden impact forces acting",
+        "b": "Surfaces go out of alignment with each other",
+        "c": "Due to the bending action caused",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "The minimum length of the specimen required according to the code is",
+      "answers": {
+        "a": "Twice the diameter",
+        "b": "Equal to diameter",
+        "c": "Four times the diameter",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Direct shear test specimen is not affected by the length of the specimen(Say True or False).",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": "False"
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    }
+  ]
+}
